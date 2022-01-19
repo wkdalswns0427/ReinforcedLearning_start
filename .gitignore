@@ -276,5 +276,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-.start_RL
+start_RL/
 
