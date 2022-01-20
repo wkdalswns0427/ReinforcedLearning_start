@@ -277,4 +277,5 @@ $RECYCLE.BIN/
 *.lnk
 
 start-RL/
+#UnityConda/
 
